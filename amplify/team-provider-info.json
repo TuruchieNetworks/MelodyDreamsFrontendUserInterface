@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-melodydreamsfrontend-dev-110309-authRole",
+      "UnauthRoleArn": "arn:aws:iam::825899528470:role/amplify-melodydreamsfrontend-dev-110309-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::825899528470:role/amplify-melodydreamsfrontend-dev-110309-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-melodydreamsfrontend-dev-110309-deployment",
+      "UnauthRoleName": "amplify-melodydreamsfrontend-dev-110309-unauthRole",
+      "StackName": "amplify-melodydreamsfrontend-dev-110309",
+      "StackId": "arn:aws:cloudformation:us-east-1:825899528470:stack/amplify-melodydreamsfrontend-dev-110309/db700a30-2d2b-11ed-a3d8-12504f22921b",
+      "AmplifyAppId": "d2xft5ki6bxzdf"
+    },
+    "categories": {
+      "auth": {
+        "melodydreamsregisteredusers": {}
+      }
+    }
+  }
+}
